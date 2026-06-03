@@ -14,10 +14,8 @@ Me especializo en limpiar bases de datos, hacer Análisis Exploratorio de Datos 
 
 ### 📊 Mis Estadísticas y Actividad
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=paul-fraga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=paul-fraga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paul-fraga&show_icons=true&theme=tokyonight)](https://github.com/paul-fraga)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-fraga&layout=compact&theme=tokyonight)](https://github.com/paul-fraga)
 
 ### 🚀 Proyectos Destacados
 
