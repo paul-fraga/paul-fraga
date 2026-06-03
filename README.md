@@ -30,13 +30,13 @@ Me especializo en limpiar bases de datos, hacer Análisis Exploratorio de Datos 
 
 ### 🚀 Proyectos Destacados
 
-* [**Predicción de Churn (Telecomunicaciones)**](AQUI_PEGA_EL_LINK_DE_TU_REPOSITORIO): Modelo predictivo utilizando LightGBM en Python para identificar clientes con alto riesgo de abandono. Logré una métrica ROC-AUC de 0.8985, entregando insights para optimizar estrategias de retención.
+* [**Predicción de Churn (Telecomunicaciones)**](https://github.com/paul-fraga/project3-churn-prediction): Modelo predictivo utilizando LightGBM en Python para identificar clientes con alto riesgo de abandono. Logré una métrica ROC-AUC de 0.8985, entregando insights para optimizar estrategias de retención.
 * [**Pipeline de Análisis y Data Quality**](AQUI_PEGA_OTRO_LINK_SI_LO_TIENES): Limpieza y procesamiento de grandes volúmenes de datos usando Pandas y metodologías de Data Wrangling.
 
 ### 📫 Conectemos
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paul-fraga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="AQUI_PEGA_TU_LINK_DE_NOTION" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
+  <a href="https://paul-fraga.notion.site/Portafolio-ab1e4ae179d08242a1a181c74c12f2fd" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
   <a href="mailto:paul.fraga@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
 </p>
