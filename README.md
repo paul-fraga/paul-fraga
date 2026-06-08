@@ -21,7 +21,7 @@
 
 * 🎯 **The Bridge Between Data & Business:** I specialize in cleaning databases, conducting Exploratory Data Analysis (EDA), and building predictive models that directly impact business profitability.
 * 📈 **Business ROI Focus:** I ensure every line of code serves a commercial purpose, such as optimizing budgets and improving customer retention.
-* 🎓 **Education & Recognitions:** Graduate of the TripleTen Data Science Bootcamp. Holds a Bachelor's Degree in Strategic Marketing, awarded the prestigious National CENEVAL Prize for Academic Excellence.
+* 🎓 **Education & Recognitions:** Graduate of the TripleTen Data Science Bootcamp. Holds a Bachelor's Degree in Strategic Marketing, recognized with the National CENEVAL Award for Academic Excellence.
 
 <details>
 <summary><b><kbd>🌎 Haz clic aquí para leer en Español</kbd></b></summary>
@@ -30,7 +30,7 @@
 <ul>
 <li>🎯 <b>El puente entre los Datos y el Negocio:</b> Me especializo en limpiar bases de datos, hacer Análisis Exploratorio de Datos (EDA) y construir modelos predictivos que impacten directamente en la rentabilidad.</li>
 <li>📈 <b>Enfoque en el ROI:</b> Aseguro que cada línea de código tenga un propósito comercial (optimizar presupuestos, mejorar retención de clientes).</li>
-<li>🎓 <b>Educación y Reconocimientos:</b> Graduado del Bootcamp de Data Science de TripleTen. Licenciado en Mercadotecnia Estratégica, galardonado con el Premio Nacional CENEVAL al Desempeño de Excelencia Académica.</li>
+<li>🎓 <b>Educación y Reconocimientos:</b> Graduado del Bootcamp de Data Science de TripleTen. Licenciado en Mercadotecnia Estratégica, reconocido con el Premio Nacional CENEVAL al Desempeño de Excelencia Académica.</li>
 </ul>
 </blockquote>
 </details>
@@ -39,16 +39,29 @@
 
 ## 🛠️ Skills & Technologies
 
-**Data Analysis & Engineering:**<br>
+**Data Analysis & Engineering:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-<br><br>
 
-**Machine Learning:**<br>
+**Machine Learning:**
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-20232A?style=for-the-badge&logo=lightgbm&logoColor=white)
-<br><br>
 
-**Data Visualization & BI:**<br>
+**Data Visualization & BI:**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+<details>
+<summary><b><kbd>🌎 Leer en Español</kbd></b></summary>
+<br>
+<blockquote>
+<b>Análisis e Ingeniería de Datos:</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<br><br>
+<b>Machine Learning:</b><br>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/LightGBM-20232A?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM">
+<br><br>
+<b>Visualización de Datos y BI:</b><br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI">
+</blockquote>
+</details>
 
 <br>
 
