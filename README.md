@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <a href="PON_AQUI_TU_LINK_DE_LOVABLE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"></a>
+  <a href="PON_AQUI_TU_LINK_DE_LOVABLE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/paul-fraga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:paul.fraga@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -40,16 +40,19 @@
 ## 🛠️ Skills & Technologies
 
 **Data Analysis & Engineering:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Machine Learning:**
+
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-20232A?style=for-the-badge&logo=lightgbm&logoColor=white)
 
 **Data Visualization & BI:**
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 <details>
-<summary><b><kbd>🌎 Leer en Español</kbd></b></summary>
+<summary><b><kbd>🌎 Haz clic aquí para leer en Español</kbd></b></summary>
 <br>
 <blockquote>
 <b>Análisis e Ingeniería de Datos:</b><br>
@@ -74,7 +77,7 @@
 * 📈 **Impact:** Achieved a 0.89 ROC-AUC (>85% accuracy). This insight enables marketing teams to optimize budgets by targeting retention campaigns exclusively to at-risk customers.
 
 <details>
-<summary><b><kbd>🌎 Leer detalles en Español</kbd></b></summary>
+<summary><b><kbd>🌎 Haz clic aquí para leer en Español</kbd></b></summary>
 <br>
 <blockquote>
 <ul>
@@ -94,7 +97,7 @@
 * 📈 **Impact:** Delivered a user-friendly tool that streamlines data exploration, reducing time-to-insight and demonstrating the ability to translate raw data into business intelligence interfaces.
 
 <details>
-<summary><b><kbd>🌎 Leer detalles en Español</kbd></b></summary>
+<summary><b><kbd>🌎 Haz clic aquí para leer en Español</kbd></b></summary>
 <br>
 <blockquote>
 <ul>
