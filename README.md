@@ -1,6 +1,8 @@
 <img width="1500" height="500" alt="banner_github" src="https://github.com/user-attachments/assets/dad5c5b4-6edc-455b-bfc4-fa3eaf84301d" />
 <p>
 </p>
+<p>
+</p>
 <p align="center">
   <a href="PON_AQUI_TU_LINK_DE_LOVABLE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/paul-fraga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
