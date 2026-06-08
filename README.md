@@ -1,13 +1,4 @@
-<h1 align="center">Hi! I'm Paul Fraga 👋</h1>
-<h3 align="center">Data Scientist | Translating complex data into strategic decisions 🚀</h3>
-
-<div align="center">
-  <details>
-    <summary><b><kbd>🌎 Haz clic aquí para leer en Español</kbd></b></summary>
-    <h3 align="center">Data Scientist | Transformando datos complejos en decisiones estratégicas 🚀</h3>
-  </details>
-</div>
-<br>
+<img width="1500" height="500" alt="banner_github_teal" src="https://github.com/user-attachments/assets/d1ae42e9-09bd-40c4-8031-697e99e3d67f" />
 
 <p align="center">
   <a href="PON_AQUI_TU_LINK_DE_LOVABLE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
