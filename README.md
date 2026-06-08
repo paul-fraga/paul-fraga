@@ -1,4 +1,5 @@
-<img width="1500" height="500" alt="banner_github_teal" src="https://github.com/user-attachments/assets/d1ae42e9-09bd-40c4-8031-697e99e3d67f" />
+<img width="1500" height="500" alt="banner_github" src="https://github.com/user-attachments/assets/dad5c5b4-6edc-455b-bfc4-fa3eaf84301d" />
+<br>
 
 <p align="center">
   <a href="PON_AQUI_TU_LINK_DE_LOVABLE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
