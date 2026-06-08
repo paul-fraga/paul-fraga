@@ -10,9 +10,9 @@
 <br>
 
 <p align="center">
-  <a href="PON_AQUI_TU_LINK_DE_LOVABLE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/paul-fraga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:paul.fraga@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="PON_AQUI_TU_LINK_DE_LOVABLE" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-008080?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/paul-fraga" target="_blank"><img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:paul.fraga@outlook.com"><img src="https://img.shields.io/badge/✉️%20Email-D14836?style=for-the-badge" alt="Email"></a>
 </p>
 
 ---
@@ -55,14 +55,19 @@
 <summary><b><kbd>🌎 Haz clic aquí para leer en Español</kbd></b></summary>
 <br>
 <blockquote>
-<b>Análisis e Ingeniería de Datos:</b><br>
+
+<b>Análisis e Ingeniería de Datos:</b>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<br><br>
-<b>Machine Learning:</b><br>
+
+<b>Machine Learning:</b>
+
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/LightGBM-20232A?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM">
-<br><br>
-<b>Visualización de Datos y BI:</b><br>
+
+<b>Visualización de Datos y BI:</b>
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI">
+
 </blockquote>
 </details>
 
