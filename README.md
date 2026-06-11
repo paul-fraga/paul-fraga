@@ -87,7 +87,7 @@
 
 ---
 
-### [2. Interactive Vehicle Market Dashboard](https://github.com/paul-fraga) 
+### [2. Interactive Vehicle Market Dashboard](https://github.com/paul-fraga/sprint_seven) 
 
 * 🎯 **Goal:** Analyze vehicle market trends and pricing behavior to identify key investment opportunities.
 * ⚙️ **Actions:** Developed an interactive web application using Streamlit to visualize vehicle price distributions and correlate them with technical specifications.
